@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to my homepage!
 
-You can use the [editor on GitHub](https://github.com/dahlian0/dahlian0-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Lisa Shinoda, currently doing research in agriculture × computer vision.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publication
+- Image recognition of growth stages of flower shoots by acquiring and using overhead video images in a
+rose greenhouse　, Japanese Society for Horticultural Science, Mar 2022
+    - Shinoda, R., K. Motoki, R. Nakano, T. Nakazaki and J. Miyasaka
 
-### Markdown
+- Predicting Perilla Disease Using Environmental Data Based on Data Analysis and Machine Learning　~Comparison of the Prediction Accuracy among Machine Learning Methods ~　, The Japanese Society of Agricultural Machinery JSAM Kansai Branch , Mar 2020
+    - Shinoda, R, J. Miyasaka, N. SAKAKIBARA, T. SAKAKIBARA, H.SHIMIZU, H.NAKAJIMA , K.OHDOI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
+- Support Engineer Intenship, Microsoft, Sep 2021
+- Dara Scientist Internship, Rakuten , Jan 2021 - Mar 2021
+- Software Engineer Internship, Money Foeward,inc, Apr 2021- Oct 2021
 
-```markdown
-Syntax highlighted code block
+## Education
+- M.S. in Agricultural Engineering, Kyoto University, Apr 2020 - Mar 2022
 
-# Header 1
-## Header 2
-### Header 3
+- B.S. in Agricultural Engineering, Kyoto University, April 2016 - March 2020
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dahlian0/dahlian0-github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
