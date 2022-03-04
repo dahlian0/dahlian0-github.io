@@ -1,6 +1,6 @@
 ## Welcome to my homepage!
 
-I am Lisa Shinoda, currently doing research in agriculture × computer vision.
+I am Risa Shinoda(篠田理沙), currently doing research in agriculture × computer vision.
 
 ## Publication
 - Image recognition of growth stages of flower shoots by acquiring and using overhead video images in a
@@ -17,6 +17,5 @@ rose greenhouse　, Japanese Society for Horticultural Science, Mar 2022
 
 ## Education
 - M.S. in Agricultural Engineering, Kyoto University, Apr 2020 - Mar 2022
-
 - B.S. in Agricultural Engineering, Kyoto University, April 2016 - March 2020
 
