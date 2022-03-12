@@ -4,8 +4,8 @@ I am Risa Shinoda, currently doing research in agriculture × computer vision.
 
 ## Experience
 - Support Engineer Intenship, [Microsoft](https://www.microsoft.com/ja-jp/mscorp), Sep 2021
-- Data Scientist Internship, [Rakuten]（https://corp.rakuten.co.jp/）, Jan 2021 - Mar 2021
-- Software Engineer Internship, [Money Foeward]（https://corp.moneyforward.com/）, Apr 2021- Oct 2021
+- Data Scientist Internship, [Rakuten](https://corp.rakuten.co.jp/), Jan 2021 - Mar 2021
+- Software Engineer Internship, [Money Foeward](https://corp.moneyforward.com/), Apr 2021- Oct 2021
 - Software Engineer Part-time job [Rutilea](https://www.rutilea.com/), Oct 2019 - Dec 2020
 etc....
 
@@ -26,4 +26,5 @@ rose greenhouse, Japanese Society for Horticultural Science, Mar 2022
 
 ## Link
 [Twitter](https://twitter.com/dahlian0)
+
 [Linkedin](https://www.linkedin.com/in/risa-shinoda)
