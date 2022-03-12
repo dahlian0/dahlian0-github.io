@@ -14,7 +14,7 @@ etc....
 rose greenhouse, Japanese Society for Horticultural Science, Mar 2022
     - Shinoda, R., K. Motoki, R. Nakano, T. Nakazaki and J. Miyasaka
 
-- Predicting Perilla Disease Using Environmental Data Based on Data Analysis and Machine Learning　~Comparison of the Prediction Accuracy among Machine Learning Methods ~　, The Japanese Society of Agricultural Machinery JSAM Kansai Branch, Mar 2020
+- Predicting Perilla Disease Using Environmental Data Based on Data Analysis and Machine Learning　, The Japanese Society of Agricultural Machinery JSAM Kansai Branch, Mar 2020
     - Shinoda, R, J. Miyasaka, N. SAKAKIBARA, T. SAKAKIBARA, H.SHIMIZU, H.NAKAJIMA , K.OHDOI
 
 ## Education
