@@ -1,6 +1,7 @@
 ## Welcome to my homepage!
 
 I am Risa Shinoda, currently doing research in agriculture × computer vision.
+Also, I am working as a full-time employee as a Cloud and search engines support engineer.
 
 ## Experience
 - Support Engineer Intenship, [Microsoft](https://www.microsoft.com/ja-jp/mscorp), Sep 2021
